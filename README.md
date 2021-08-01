@@ -7,7 +7,7 @@ $ docker run --name my-redis -p 6379:6379 --restart always --detach redis
 ```
 
 ```bash
-mvn spring-boot:run
+$ mvn spring-boot:run
 ```
 Goto browser: <br>
 http://localhost:8080/rest/user/add/doncic <br>
