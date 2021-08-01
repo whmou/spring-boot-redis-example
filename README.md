@@ -1,4 +1,4 @@
-# spring-boot-redis-example
+# spring-boot-redis-leaderboard-example
 
 ### ZADD and ZREVRANGE with spring boot example 
 
