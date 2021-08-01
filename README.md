@@ -1,6 +1,6 @@
 # spring-boot-redis-leaderboard-example
 
-### ZADD and ZREVRANGE with spring boot example 
+### ZADD, ZINCR, ZREVRANGE with spring boot example 
 
 ```bash
 $ docker run --name my-redis -p 6379:6379 --restart always --detach redis
